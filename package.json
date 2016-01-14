@@ -11,7 +11,9 @@
   "author": "Jakub Turek <ja@kubaturek.pl>",
   "license": "ISC",
   "devDependencies": {
+    "chai": "^3.4.1",
     "grunt": "^0.4.5",
+    "mocha": "^2.3.4",
     "tsd": "^0.6.5",
     "typescript": "~1.7.5"
   }
