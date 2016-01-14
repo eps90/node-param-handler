@@ -5,11 +5,13 @@
   "repository": "https://github.com/eps90/node-param-handler",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile": "tsc"
   },
   "author": "Jakub Turek <ja@kubaturek.pl>",
   "license": "ISC",
   "devDependencies": {
+    "tsd": "^0.6.5",
     "typescript": "~1.7.5"
   }
 }
