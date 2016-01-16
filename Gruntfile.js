@@ -25,7 +25,7 @@ module.exports = function (grunt) {
                 options: {
                     reporter: 'progress'
                 },
-                src: ['dist/test/**/*.js']
+                src: ['build/test/**/*.js']
             }
         },
         tslint: {
